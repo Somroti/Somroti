@@ -1,7 +1,4 @@
-Hi, its me
-I try to be a YouTuber
-I try to be a developer
-And im French 🇫🇷
+French, Geometry Dash Player and I like Python.
 
 <!---
 Somroti/Somroti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
